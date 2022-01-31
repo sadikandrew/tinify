@@ -1,6 +1,6 @@
 # tinify
 
-#### Automatically shrink JPEGs and PwwwNGs using https://tinypng.com/ APIs
+#### Automatically shrink JPEGs and PNGs using https://tinypng.com/ APIs
 
 - Run `pip install --upgrade tinify` to install the tinify package to utilize the tinyPNG APIs
 
